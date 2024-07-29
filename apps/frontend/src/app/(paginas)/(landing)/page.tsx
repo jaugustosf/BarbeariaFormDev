@@ -1,9 +1,9 @@
 'use client'
 
-import NossosClientes from '@/components/client/NossosClientes'
+import NossosClientes from '@/components/cliente/NossosClientes'
 import TituloSlogan from '@/components/landing/TituloSlogan'
-import NossosProfissionais from '@/components/barber/NossosProfissionais'
-import NossosServicos from '@/components/service/NossosServicos'
+import NossosProfissionais from '@/components/profissional/NossosProfissionais'
+import NossosServicos from '@/components/servico/NossosServicos'
 import ContainerComBackground from '@/components/shared/ContainerComBackground'
 
 export default function Landing() {
